@@ -4,6 +4,8 @@ Sample codes, tests, best practices, tests and more...
 
 It will be an open repository, experimental, use it with care.
 
+__See Develop branch for more update and more code__
+
 ## Share code
 
 This code is not meant to be the best, some are just attempts.
