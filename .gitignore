@@ -24,6 +24,8 @@
 *.sdf
 *.opensdf
 *.unsuccessfulbuild
+*.vs
+packages/
 ipch/
 obj/
 [Bb]in
