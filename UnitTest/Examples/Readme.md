@@ -2,6 +2,12 @@
 
 Nothing better than trying, I cloned some repositories to code and try to add unit tests in these projects.  
 
+### ASP.NET MVC Simple App - aspnetmvc-simple-app
+
+Testing Controller and load markdown and json files  
+[project with unit test](https://github.com/Magicianred/aspnetmvc-simple-app)  
+
+
 ### ASP.NET MVC Solution Architecture – Best Practices
 
 by [chsakell](https://chsakell.com/author/chsakell/)
