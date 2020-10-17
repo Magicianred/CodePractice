@@ -20,12 +20,10 @@ __Enjoy your code!!!__ :)
 I love to test! I want to do more!  
 I will try to do some example to basic project ready for test.  
 
-- [first test on MVC project](https://github.com/Magicianred/CodePractice/tree/develop/UnitTest/ToDoMVC)
+- [unit test on asp.net MVC architecture](https://github.com/Magicianred/mvcarchitecture)  
+- [unit test on a simple asp.net MVC project](https://github.com/Magicianred/aspnetmvc-simple-app)  
+- [unit test on a simple React project](https://github.com/Magicianred/react-simple-app)  
 
-#### Practice in real code
-
-Nothing better than trying, I cloned some repository to code and try to add test in these projects.  
-- [link to examples folder](https://github.com/Magicianred/CodePractice/tree/develop/UnitTest/Examples)
 
 ### SOLID
 
@@ -35,7 +33,7 @@ Nothing better than trying, I cloned some repository to code and try to add test
 - __I__ nterface Segregation Principle
 - __D__ ependency Inversion Principle
 
-*working in progress*
+- [solid principle on dotnet project](https://github.com/Magicianred/CodePractice/tree/develop/SOLID/Examples/SolidPrinciples)  
 
 ### TDD Test-driven development
 

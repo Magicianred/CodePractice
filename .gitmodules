@@ -4,3 +4,12 @@
 [submodule "UnitTest/Examples/aspnetmvc-simple-app"]
 	path = UnitTest/Examples/aspnetmvc-simple-app
 	url = https://github.com/Magicianred/aspnetmvc-simple-app.git
+[submodule "SOLID/Examples/SolidPrinciples"]
+	path = SOLID/Examples/SolidPrinciples
+	url = https://github.com/Magicianred/SOLID
+[submodule "UnitTest/Examples/react-simple-app"]
+	path = UnitTest/Examples/react-simple-app
+	url = https://github.com/Magicianred/react-simple-app
+[submodule "UnitTest/Examples/my-blog-sample"]
+	path = UnitTest/Examples/my-blog-sample
+	url = https://github.com/Magicianred/my-blog-sample
